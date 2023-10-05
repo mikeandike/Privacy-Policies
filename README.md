@@ -1,4 +1,7 @@
+# Account Deletion Request
 
+# Collective Vote
+To delete your account, click [this link](mailto:michaelsacks@gmail.com?subject=Collective%20Vote%20Account%20Deletion%20Request&body=Please%20delete%20my%20account%20on%20Collective%20Vote%20for%20email%3A%20%5Byour%20email%20address%5D)
 
 # Privacy-Policies & Terms of Service
 
